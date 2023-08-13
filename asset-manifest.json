@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactjs-calendera-app/static/css/main.307176be.css",
-    "main.js": "/reactjs-calendera-app/static/js/main.43181024.js",
-    "static/js/787.aa1d4325.chunk.js": "/reactjs-calendera-app/static/js/787.aa1d4325.chunk.js",
-    "index.html": "/reactjs-calendera-app/index.html",
-    "main.307176be.css.map": "/reactjs-calendera-app/static/css/main.307176be.css.map",
-    "main.43181024.js.map": "/reactjs-calendera-app/static/js/main.43181024.js.map",
-    "787.aa1d4325.chunk.js.map": "/reactjs-calendera-app/static/js/787.aa1d4325.chunk.js.map"
+    "main.css": "/reactjs-calender-app/static/css/main.307176be.css",
+    "main.js": "/reactjs-calender-app/static/js/main.6647b56f.js",
+    "static/js/787.aa1d4325.chunk.js": "/reactjs-calender-app/static/js/787.aa1d4325.chunk.js",
+    "index.html": "/reactjs-calender-app/index.html",
+    "main.307176be.css.map": "/reactjs-calender-app/static/css/main.307176be.css.map",
+    "main.6647b56f.js.map": "/reactjs-calender-app/static/js/main.6647b56f.js.map",
+    "787.aa1d4325.chunk.js.map": "/reactjs-calender-app/static/js/787.aa1d4325.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.307176be.css",
-    "static/js/main.43181024.js"
+    "static/js/main.6647b56f.js"
   ]
 }
